@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jung Hyun(Chris) Baek
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jeong Hyeon Paik
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jung Hyun
+last_name: Baek
 
 # Status emoji
 status:
